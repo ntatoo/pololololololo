@@ -26,22 +26,22 @@ Features
 > - and much more!
 
 ## Features
-> [x] GPS Location configuration
-> [x] Search Pokestops
-> [x] Catch Pokemon
-> [x] Determine which pokeball to use (uses Razz Berry if the catch percentage is low!)
-> [x] Exchange Pokemon as per configuration
-> [x] Evolve Pokemon as per configuration
-> [x] Auto switch mode (Inventory Checks - switches between catch/farming items)
-> [x] Limit the step to farm specific area for pokestops
-> [x] Rudimentary IV Functionality filter
-> [x] Ignore certain pokemon filter
-> [x] Adjust delay between Pokemon capture & Transfer as per configuration
-> [x] Hatch eggs
-> [x] Incubate eggs
-> [x] Crowd Sourced Map Prototype
-> [ ] [Standalone Desktop Application] (https://github.com/PokemonGoF/PokemonGo-Bot-Desktop)
-> [x] Use candy
+> - [x] GPS Location configuration
+> - [x] Search Pokestops
+> - [x] Catch Pokemon
+> - [x] Determine which pokeball to use (uses Razz Berry if the catch percentage is low!)
+> - [x] Exchange Pokemon as per configuration
+> - [x] Evolve Pokemon as per configuration
+> - [x] Auto switch mode (Inventory Checks - switches between catch/farming items)
+> - [x] Limit the step to farm specific area for pokestops
+> - [x] Rudimentary IV Functionality filter
+> - [x] Ignore certain pokemon filter
+> - [x] Adjust delay between Pokemon capture & Transfer as per configuration
+> - [x] Hatch eggs
+> - [x] Incubate eggs
+> - [x] Crowd Sourced Map Prototype
+> - [ ] [Standalone Desktop Application] (https://github.com/PokemonGoF/PokemonGo-Bot-Desktop)
+> - [x] Use candy
 
 Notes
 -------------
