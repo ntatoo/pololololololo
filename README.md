@@ -1,9 +1,4 @@
-<p align="center">
-<a href="">
-    <img alt="Logo" src="http://image.prntscr.com/image/b238b63b4f044813a91f772241be8d45.jpg" width="600">
-</a>
-
-<strong><em> The contents of this repo are a proof of concept and are for educational use only </em></strong>
+![headerimg](http://image.prntscr.com/image/b238b63b4f044813a91f772241be8d45.jpg)
 
 
 <h2>Do NOT publish/share/advertise this Bot, GitHub or discord, in any other discord server or website.</h2>
